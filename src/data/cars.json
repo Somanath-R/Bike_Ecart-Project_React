@@ -1,0 +1,203 @@
+[
+   
+    {
+        "id": 21,
+        "type": "car",
+        "name": "Maruti Swift",
+        "brand": "Maruti",
+        "engine": "1.2L",
+        "fuelType": "Petrol",
+        "transmission": "Manual",
+        "price": 650000
+    },
+    {
+        "id": 22,
+        "type": "car",
+        "name": "Hyundai i20",
+        "brand": "Hyundai",
+        "engine": "1.2L",
+        "fuelType": "Petrol",
+        "transmission": "Automatic",
+        "price": 900000
+    },
+    {
+        "id": 23,
+        "type": "car",
+        "name": "Tata Nexon",
+        "brand": "Tata",
+        "engine": "1.5L",
+        "fuelType": "Diesel",
+        "transmission": "Manual",
+        "price": 1150000
+    },
+    {
+        "id": 24,
+        "type": "car",
+        "name": "Mahindra XUV700",
+        "brand": "Mahindra",
+        "engine": "2.0L Turbo",
+        "fuelType": "Petrol",
+        "transmission": "Automatic",
+        "price": 1700000
+    },
+    {
+        "id": 25,
+        "type": "car",
+        "name": "Toyota Fortuner",
+        "brand": "Toyota",
+        "engine": "2.8L",
+        "fuelType": "Diesel",
+        "transmission": "Automatic",
+        "price": 3400000
+    },
+    {
+        "id": 26,
+        "type": "car",
+        "name": "Kia Seltos",
+        "brand": "Kia",
+        "engine": "1.5L",
+        "fuelType": "Petrol",
+        "transmission": "Manual",
+        "price": 1200000
+    },
+    {
+        "id": 27,
+        "type": "car",
+        "name": "Honda City",
+        "brand": "Honda",
+        "engine": "1.5L",
+        "fuelType": "Petrol",
+        "transmission": "Automatic",
+        "price": 1400000
+    },
+    {
+        "id": 28,
+        "type": "car",
+        "name": "MG Hector",
+        "brand": "MG",
+        "engine": "1.5L Turbo",
+        "fuelType": "Petrol",
+        "transmission": "Manual",
+        "price": 1600000
+    },
+    {
+        "id": 29,
+        "type": "car",
+        "name": "Hyundai Creta",
+        "brand": "Hyundai",
+        "engine": "1.5L",
+        "fuelType": "Diesel",
+        "transmission": "Automatic",
+        "price": 1500000
+    },
+    {
+        "id": 30,
+        "type": "car",
+        "name": "Skoda Octavia",
+        "brand": "Skoda",
+        "engine": "2.0L TSI",
+        "fuelType": "Petrol",
+        "transmission": "Automatic",
+        "price": 2700000
+    },
+    {
+        "id": 31,
+        "type": "car",
+        "name": "Volkswagen Taigun",
+        "brand": "Volkswagen",
+        "engine": "1.5L TSI",
+        "fuelType": "Petrol",
+        "transmission": "Manual",
+        "price": 1500000
+    },
+    {
+        "id": 32,
+        "type": "car",
+        "name": "Jeep Compass",
+        "brand": "Jeep",
+        "engine": "2.0L",
+        "fuelType": "Diesel",
+        "transmission": "Manual",
+        "price": 2200000
+    },
+    {
+        "id": 33,
+        "type": "car",
+        "name": "Mahindra Thar",
+        "brand": "Mahindra",
+        "engine": "2.2L",
+        "fuelType": "Diesel",
+        "transmission": "Automatic",
+        "price": 1600000
+    },
+    {
+        "id": 34,
+        "type": "car",
+        "name": "Ford Endeavour",
+        "brand": "Ford",
+        "engine": "3.2L",
+        "fuelType": "Diesel",
+        "transmission": "Automatic",
+        "price": 3500000
+    },
+    {
+        "id": 35,
+        "type": "car",
+        "name": "BMW 3 Series",
+        "brand": "BMW",
+        "engine": "2.0L Turbo",
+        "fuelType": "Petrol",
+        "transmission": "Automatic",
+        "price": 4900000
+    },
+    {
+        "id": 36,
+        "type": "car",
+        "name": "Audi A6",
+        "brand": "Audi",
+        "engine": "2.0L TFSI",
+        "fuelType": "Petrol",
+        "transmission": "Automatic",
+        "price": 6100000
+    },
+    {
+        "id": 37,
+        "type": "car",
+        "name": "Mercedes C-Class",
+        "brand": "Mercedes",
+        "engine": "2.0L",
+        "fuelType": "Diesel",
+        "transmission": "Automatic",
+        "price": 5800000
+    },
+    {
+        "id": 38,
+        "type": "car",
+        "name": "Jaguar XF",
+        "brand": "Jaguar",
+        "engine": "2.0L",
+        "fuelType": "Petrol",
+        "transmission": "Automatic",
+        "price": 6700000
+    },
+    {
+        "id": 39,
+        "type": "car",
+        "name": "Porsche 911",
+        "brand": "Porsche",
+        "engine": "3.0L Twin-Turbo",
+        "fuelType": "Petrol",
+        "transmission": "Automatic",
+        "price": 16400000
+    },
+    {
+        "id": 40,
+        "type": "car",
+        "name": "Lamborghini Huracan",
+        "brand": "Lamborghini",
+        "engine": "5.2L V10",
+        "fuelType": "Petrol",
+        "transmission": "Automatic",
+        "price": 32000000
+    }
+]
